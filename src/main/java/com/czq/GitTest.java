@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hellogit");
         System.out.println("hellogit");System.out.println("hellogit");
         System.out.println("hellogit  hot fix");
+        System.out.println("push");
     }
 }
